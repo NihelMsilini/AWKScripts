@@ -1,0 +1,4 @@
+syslog:x:101:104::/home/syslog:/bin/false
+ubuntu:x:1000:1000:Ubuntu:/home/ubuntu:/bin/bash
+user:x:1001:1001:,,,:/home/user:/bin/bash
+usbmux:x:106:46:usbmux daemon,,,:/home/usbmux:/bin/false
